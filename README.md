@@ -1,4 +1,4 @@
-# ToDoList 9.1
+# Objective Oasis
 Simple ToDoList for Linux.
 
-![Screenshot from 2023-04-12 14-52-17](https://user-images.githubusercontent.com/52569279/231490386-22661dd5-8250-402c-bd27-4847a39be54b.png)
+![Screenshot from 2023-12-29 14-59-33](https://github.com/ToothedTomb/ToDoList2.0/assets/52569279/2ce21813-9dc8-4263-b3d0-275ff9731a9c)
